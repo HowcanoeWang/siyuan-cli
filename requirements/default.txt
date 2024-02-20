@@ -1,0 +1,4 @@
+npyscreen==4.10.5
+pillow==10.2.0
+cython==3.0.8
+siyuanhelper==0.3.0
